@@ -1,1 +1,1 @@
-# Skin-Cancer-Inception-V3
+# Skin-Cancer-models
